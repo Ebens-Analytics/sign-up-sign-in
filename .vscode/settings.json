@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "flask_login",
+            "database": "${workspaceFolder:Flask Login page}/instance/testdb.db"
+        }
+    ]
+}
